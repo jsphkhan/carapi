@@ -1,0 +1,12 @@
+I am suing this free service to create Fake API's
+https://jsonplaceholder.typicode.com/
+
+Internally it uses Fake JSON server.
+
+Steps to host your own fake API:
+1. Create a Git repo
+2. Create a db.json file
+3. Add your data
+4. Commit your changes
+5. After some time you can access your API URL
+https://my-json-server.typicode.com/<githubusername>/<repo_name>/<json_prop_name>
