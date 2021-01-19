@@ -1,44 +1,104 @@
 {
-    "cars": [
-      {
-        "id": 1,
-        "name": "A Simple Guide to MobX",
-        "pic": "http://covers.openlibrary.org/b/isbn/9780385533225-M.jpg",
-        "author": "Joseph Khan",
-        "sold": false,
-        "ISBN": "9780385533225"
-      },
-      {
-        "id": 2,
-        "name": "You don't know JavaScript",
-        "pic": "http://covers.openlibrary.org/b/isbn/0879101342-M.jpg",
-        "author": "Kyle Simpsons",
-        "sold": false,
-        "ISBN": "0879101342"
-      },
-      {
-        "id": 3,
-        "name": "A Simple Guide to MobX",
-        "pic": "http://covers.openlibrary.org/b/isbn/007071570X-M.jpg",
-        "author": "Joseph Khan",
-        "sold": true,
-        "ISBN": "007071570"
-      },
-      {
-        "id": 4,
-        "name": "You don't know JavaScript",
-        "pic": "http://covers.openlibrary.org/b/isbn/0061929409-M.jpg",
-        "author": "Kyle Simpsons",
-        "sold": true,
-        "ISBN": "0061929409"
-      },
-      {
-        "id": 5,
-        "name": "You don't know JavaScript",
-        "pic": "http://covers.openlibrary.org/b/isbn/0582080533-M.jpg",
-        "author": "Kyle Simpsons",
-        "sold": true,
-        "ISBN": "0582080533"
-      }
-    ]
-  }
+  "cars": [
+    {
+      "id": 1,
+      "title": "2018 Toyota x86",
+      "price": "900",
+      "currency": "SAR",
+      "mileage": "3452",
+      "mileage_unit": "km",
+      "engine": "2",
+      "engine_unit": "L",
+      "brand": "Toyota",
+      "color": "red",
+      "doors": "4",
+      "transmission": "triptronic",
+      "body": "saloon",
+      "year": "2018",
+      "exterior": "Canyon Red Metallic",
+      "interior": "Oyster",
+      "src": "/cars/toyota_PNG1932.png",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 2,
+      "title": "2015 Lotus Evora",
+      "price": "1100",
+      "currency": "SAR",
+      "mileage": "1200",
+      "mileage_unit": "km",
+      "engine": "2.5",
+      "engine_unit": "L",
+      "brand": "Lotus",
+      "color": "white",
+      "doors": "2",
+      "transmission": "automatic",
+      "body": "sports",
+      "year": "2015",
+      "exterior": "Canyon Red Metallic",
+      "interior": "Oyster",
+      "src": "/cars/suzuki_PNG12310.png",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 3,
+      "title": "2016 Kia Stinger",
+      "price": "1300",
+      "currency": "SAR",
+      "mileage": "8891",
+      "mileage_unit": "km",
+      "engine": "3.5",
+      "engine_unit": "L",
+      "brand": "Kia",
+      "color": "grey",
+      "doors": "4",
+      "transmission": "manual",
+      "body": "coupe",
+      "year": "2016",
+      "exterior": "Canyon Red Metallic",
+      "interior": "Oyster",
+      "src": "/cars/infiniti_PNG42.png",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 4,
+      "title": "2015 Lotus Evora",
+      "price": "1100",
+      "currency": "SAR",
+      "mileage": "1200",
+      "mileage_unit": "km",
+      "engine": "2.5",
+      "engine_unit": "L",
+      "brand": "Lotus",
+      "color": "white",
+      "doors": "2",
+      "transmission": "automatic",
+      "body": "sports",
+      "year": "2015",
+      "exterior": "Canyon Red Metallic",
+      "interior": "Oyster",
+      "src": "/cars/suzuki_PNG12310.png",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+      "id": 5,
+      "title": "2019 Kia Stinger",
+      "price": "1300",
+      "currency": "SAR",
+      "mileage": "8891",
+      "mileage_unit": "km",
+      "engine": "3.5",
+      "engine_unit": "L",
+      "brand": "Kia",
+      "color": "red",
+      "doors": "2",
+      "transmission": "automatic",
+      "body": "sports",
+      "year": "2019",
+      "exterior": "Canyon Red Metallic",
+      "interior": "Oyster",
+      "src": "/cars/infiniti_PNG42.png",
+      "text": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+  ]
+}
